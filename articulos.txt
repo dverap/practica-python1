@@ -1,0 +1,4 @@
+1|Ana|Vera|1000
+2|Jose|Lopez|200
+3|Anita|Vera|1000
+4|Juan|Lopez|200
